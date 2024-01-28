@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Yachi Leonardo 👋
+# Hola, mi nombre es Yachi Leonardo 👋
 ### Full-Stack Developer, Freelance and Cybersecurity Engineer
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
