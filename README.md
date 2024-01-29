@@ -6,8 +6,6 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Yachi_Leonardo?style=social)](https://twitter.com/Yachi_Leonardo)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
 Soy ingeniero de software profesional desde hace más de un año.
 
