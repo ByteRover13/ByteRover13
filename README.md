@@ -1,4 +1,4 @@
-# Hola, mi nombre es Yachi Leonardo 👋
+# Hola, Soy Yachi Leonardo 👋
 ### Full-Stack Developer, Freelance and Cybersecurity Engineer
 ![https://github.com/ByteRover13](https://github.com/ByteRover13/ByteRover13/blob/main/logo.png)
 
