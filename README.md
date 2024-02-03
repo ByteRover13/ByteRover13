@@ -1,6 +1,6 @@
 # Hola, mi nombre es Yachi Leonardo 👋
 ### Full-Stack Developer, Freelance and Cybersecurity Engineer
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/ByteRover13](https://github.com/ByteRover13/ByteRover13/blob/main/logo.png)
 
 
 
