@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy <a href="#">Yachi Leonardo</a> 👋</h1>
 
-<h2> Full-Stack Developer, Freelance and Cybersecurity Engineer</h2>
+<h2>Full-Stack Developer, Freelance and Cybersecurity Engineer</h2>
 
 ![https://github.com/ByteRover13](https://github.com/ByteRover13/ByteRover13/blob/main/logo.png)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Yachi_Leonardo?style=social)](https://twitter.com/Yachi_Leonardo)
