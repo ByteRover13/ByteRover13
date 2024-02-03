@@ -7,8 +7,7 @@
 
 Soy ingeniero de software profesional desde hace más de un año.
 
-En 2020 me empezo atraer el mundo de la tecnologia y de como funcionan las aplicaciones, sistemas por detras y decidi estudiar por mi propia cuenta
-de forma autodidacta, colabore con compañeros en sus empresas y actualmente me encuentro aprendiendo mucho mas.
+En 2020, empezó a atraerme el mundo de la tecnología y de cómo funcionan las aplicaciones, sistemas por detrás. Decidí estudiar por mi cuenta de forma autodidacta, colaboré con compañeros en sus empresas y actualmente me encuentro aprendiendo mucho más.
 
 ## Tecnologías:
 
